@@ -23,7 +23,7 @@ This project is an implementation of gameplay tags, similar to those found in Un
    - Click the `+` button and select `Add package from git URL...`.
    - Enter the following URL:
      ```
-     https://github.com/BandoWare/GameplayTags.git
+     https://github.com/joshk418/GameplayTags.git
      ```
    - Click `Add`.
 
